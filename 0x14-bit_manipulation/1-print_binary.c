@@ -1,5 +1,4 @@
 #include "main.h"
-#include <unistd>
 
 /**
  * print_binary-the binary equivalent of a decimal number
